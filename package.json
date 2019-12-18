@@ -1,0 +1,19 @@
+{
+  "name": "com.cr4yz.quadtree",
+  "displayName": "Peril.Physics.QuadTree",
+  "version": "0.0.1",
+  "unity": "2018.3",
+  "license": "MIT",
+  "description": "A fork of cr4yz/Unity3d-QuadTree-Collision-Detection",
+  "keywords": [
+    "physics",
+    "quadtree",
+    "unity"
+  ],
+  "category": "Unity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grashaar/QuadTree.git"
+  },
+  "author": "Jake E. (https://github.com/cr4yz)"
+}
